@@ -1,0 +1,9 @@
+.navigation{
+    display: flex;
+    align-items: center;
+    background-color: blue;
+    color: white;
+    padding: 10px 20px 10px;
+    font-size: 25px;
+    text-align: center;
+}

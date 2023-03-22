@@ -1,0 +1,19 @@
+.price-container {
+    display: flex;
+    justify-content: center;
+}
+
+.form {
+    margin: 10px;
+}
+
+.price {
+    margin: 10px;
+    font-style: italic;
+}
+
+.price > span {
+    font-style: normal;
+    font-weight: bold;
+}
+
